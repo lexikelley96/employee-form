@@ -2,7 +2,7 @@
 
 This project is a simple employee management form built using **React**. It was created as part of a course assignment to practice class-based components, form handling, and basic styling integration.
 
-## 📋 Features
+##  Features
 
 - Class-based `EmployeeForm` component to manage form state
 - Form includes inputs for:
@@ -13,7 +13,7 @@ This project is a simple employee management form built using **React**. It was 
 - Submits and displays a list of added employees
 - Styled using external CSS following a reference design
 
-## 🚀 How to Run This Project Locally
+##  How to Run This Project Locally
 
 1. Clone the repository:
 
