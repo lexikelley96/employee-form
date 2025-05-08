@@ -107,8 +107,9 @@ class EmployeeForm extends React.Component {
             </label>
           </div>
 
-          {/* Submit button */}
-          <button type="submit">Add</button>
+          <div className="form-button">
+			<button type="submit">Add</button>
+		  </div>
         </form>
 
         {/* Display the list of employees */}
