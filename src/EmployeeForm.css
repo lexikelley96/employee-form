@@ -86,3 +86,12 @@
     color: white;
   }
   
+  .form-button {
+  text-align: center;
+  margin-top: 1rem;
+}
+
+.form-button button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+}
